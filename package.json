@@ -1,6 +1,6 @@
 {
   "name": "gridsome-plugin-disqus",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Gridsome plugin for the Disqus commenting system.",
   "main": "gridsome.client.js",
   "scripts": {
