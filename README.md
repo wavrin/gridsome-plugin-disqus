@@ -15,7 +15,7 @@ Add the plugin to your `gridsome.config.js` file:
 module.exports = {
   plugins: [
     {
-      use: "@gridsome/gridsome-plugin-disqus"
+      use: "gridsome-plugin-disqus"
     }
   ]
 };
